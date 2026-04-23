@@ -789,7 +789,7 @@ google.charts.setOnLoadCallback(function () {
 
             jQuery.ajax({
 
-                url: "https://greoux.re/a/rtc/",
+                url: "https://responsive.li/api/rtc/",
 
                 method: "POST",
 
